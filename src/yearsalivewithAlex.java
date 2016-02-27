@@ -1,4 +1,4 @@
-package multypleprojects;
+
 
 public class yearsalivewithAlex {
 	public static void main(String[] args) {
